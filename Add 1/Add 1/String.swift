@@ -4,7 +4,9 @@
 //
 //  Created by Katie Bernardez on 1/13/20.
 //  Copyright © 2020 Katie Bernardez. All rights reserved.
-//
+//  Adapted from: https://learnappmaking.com/creating-a-simple-ios-game-with-swift-in-xcode/
+//  randomNumber() generates a random number string of a specified length
+//  integer() returns the number within a string at the inputted integer
 
 import Foundation
 
